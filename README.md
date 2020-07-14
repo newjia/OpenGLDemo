@@ -17,8 +17,10 @@
 3. 结果的文件夹结构如下：
     ![](https://nilsli.com/p/7b6be80a/007.png)
 ### 1.4 单独引用 GLTools.h 和glew.h：
-    具体操作：在Build Phrases —— Complie Sources 添加GLTools.h 和glew.h文件。结果如下：
-    ![](https://nilsli.com/p/7b6be80a/008.png)
+具体操作：在Build Phrases —— Complie Sources 添加GLTools.h 和glew.h文件。结果如下：
+
+![](https://nilsli.com/p/7b6be80a/008.png)
+
 ### 1.5 删掉多余代码：
 
     需要删除的有：
@@ -31,6 +33,7 @@
 目录如图所示：
     ![](https://nilsli.com/p/7b6be80a/009.png)
     
+
 ### 1.5 添加启动文件 main.cpp
 1. 创建c++ 文件：
     ![](https://nilsli.com/p/7b6be80a/010.png)
