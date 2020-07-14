@@ -37,7 +37,7 @@
 2. 添加 main 文件，注意关掉创建头文件的对勾
     ![](https://nilsli.com/p/7b6be80a/011.png)
 3. 创建基础代码，如下：
-    
+   
     ```
     int main(int argc, char * argv[])
     {
@@ -50,7 +50,7 @@
 ### 2.1 业务代码
 上面的环境搭建好了，何不来个小小的Demo 来验证一下，输入业务代码如下：
 
-```
+```c
 #include "GLTools.h"
 
 #include <GLUT/GLUT.h>
